@@ -50,3 +50,14 @@ footer{
     padding-bottom:10px;
     border: 1px solid black;
 }
+header {
+    align-items:center;
+    text-align:center;
+    display:flex;
+}
+#hamburger div {
+    width: 30px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
