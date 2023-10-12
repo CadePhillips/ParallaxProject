@@ -1,0 +1,30 @@
+
+
+header{
+    background-color: bisque;
+}
+#content{
+    background-color: beige;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+#content p{
+    background-color: darkorchid;
+    padding: 5px;
+    margin: 5px;
+}
+
+
+
+@media screen {
+    header{
+        display: flex;
+        flex-direction: row;
+    }
+    #content{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
