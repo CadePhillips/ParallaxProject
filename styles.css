@@ -23,7 +23,12 @@ footer{
 
 }
 
-
+.hide-small {
+    display: none;
+}
+#main-nav li:hover {
+    background-color: lightcoral;
+}
 @media screen {
     header{
         display: flex;
@@ -33,7 +38,9 @@ footer{
         display: flex;
         flex-direction: column;
     }
-    
+    .hide-small {
+        display: block;
+    }
 }
 #main-nav li {
     list-style-type: none;
