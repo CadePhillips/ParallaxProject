@@ -58,6 +58,6 @@ header {
 #hamburger div {
     width: 30px;
     height: 5px;
-    background-color: black;
+    background-color: lightgrey;
     margin: 6px 0;
 }
