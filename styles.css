@@ -2,6 +2,10 @@
 
 header{
     background-color: bisque;
+    text-decoration: none;
+}
+body{
+    background-color: gray;
 }
 #content{
     background-color: beige;
@@ -14,7 +18,10 @@ header{
     padding: 5px;
     margin: 5px;
 }
+footer{
+    background-color: rgb(87, 85, 85);
 
+}
 
 
 @media screen {
