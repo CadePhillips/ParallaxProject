@@ -1,25 +1,25 @@
 
 
 header{
-    background-color: bisque;
+    background-color: #0d1321;
     text-decoration: none;
 }
 body{
-    background-color: gray;
+    background-color: #1d2d44;
 }
 #content{
-    background-color: beige;
+    background-color: #748cab;
     margin-left: 15%;
     margin-right: 15%;
 
 }
 #content p{
-    background-color: darkorchid;
+    background-color: #3e5c76;
     padding: 5px;
     margin: 5px;
 }
 footer{
-    background-color: rgb(87, 85, 85);
+    background-color: #0d1321;
 
 }
 
